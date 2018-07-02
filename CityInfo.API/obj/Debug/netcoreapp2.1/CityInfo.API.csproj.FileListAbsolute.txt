@@ -1,0 +1,14 @@
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.deps.json
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.runtimeconfig.json
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.runtimeconfig.dev.json
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.dll
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.pdb
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.csprojResolveAssemblyReference.cache
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.csproj.CoreCompileInputs.cache
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.RazorAssemblyInfo.cache
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.RazorAssemblyInfo.cs
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.AssemblyInfoInputs.cache
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.AssemblyInfo.cs
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.RazorTargetAssemblyInfo.cache
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.dll
+/Users/laxman/Projects/CityInfo.API/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.pdb

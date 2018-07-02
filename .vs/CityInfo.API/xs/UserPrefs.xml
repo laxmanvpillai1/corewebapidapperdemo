@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{891A3A27-AB0C-4882-A0FF-592AAC76001B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CityInfo.API/Repositories.Interfaces/ICitiesRepositories.cs">
+    <Files>
+      <File FileName="CityInfo.API/Program.cs" Line="17" Column="1" />
+      <File FileName="CityInfo.API/Startup.cs" Line="39" Column="14" />
+      <File FileName="CityInfo.API/Controllers/ValuesController.cs" Line="1" Column="5" />
+      <File FileName="CityInfo.API/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="CityInfo.API/appsettings.json" Line="1" Column="1" />
+      <File FileName="CityInfo.API/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Controllers/CitiesController.cs" Line="33" Column="39" />
+      <File FileName="CityInfo.API/Models/City.cs" Line="20" Column="1" />
+      <File FileName="CityInfo.API/Repositories/CitiesRepository.cs" Line="23" Column="10" />
+      <File FileName="CityInfo.API/Repositories/BaseRepository.cs" Line="14" Column="132" />
+      <File FileName="CityInfo.API/Business/CitiesManager.cs" Line="11" Column="19" />
+      <File FileName="CityInfo.API/Business.Interfaces/ICitiesManager.cs" Line="9" Column="36" />
+      <File FileName="CityInfo.API/Repositories.Interfaces/ICitiesRepositories.cs" Line="4" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CityInfo.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
