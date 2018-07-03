@@ -8,5 +8,7 @@ namespace CityInfo.API.Business.Interfaces
     {
 		 List<City> GetAllCities();
         void AddCity(City city);
+
+        City GetCityById(int id);
     }
 }
