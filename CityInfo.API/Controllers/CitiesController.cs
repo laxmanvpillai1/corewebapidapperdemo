@@ -33,15 +33,15 @@ namespace CityInfo.API.Controllers
 			return citiesManager.GetAllCities();
 		}
 
-		//[HttpGet("{id}")]
-		//public ActionResult<City> GetCity(int id){
-		//	return CityList.Find((obj) => obj.CityId==id);
-		//}
+        //[HttpGet("{id}")]
+        //public ActionResult<City> GetCity(int id){
+        //	return CityList.Find((obj) => obj.CityId==id);
+        //}
 
-		//[HttpPost]
-		//public void AddCity([FromBody] string cityName)
-		//{
-		//	CityList.Add(new City(CityList.Count + 1, cityName));
-		//}
-	}
+        [HttpPost]
+        public void AddCity([FromBody] City city)
+        {
+            citiesManager.AddCity(city);
+        }
+    }
 }

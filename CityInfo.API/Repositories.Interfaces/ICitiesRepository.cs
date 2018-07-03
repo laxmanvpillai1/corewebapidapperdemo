@@ -6,6 +6,7 @@ namespace CityInfo.API.Repositories.Interfaces
 {
     public interface ICitiesRepository
     {
-		 List<City> GetCities();
+		List<City> GetCities();
+        void AddCity(City city);
     }
 }
