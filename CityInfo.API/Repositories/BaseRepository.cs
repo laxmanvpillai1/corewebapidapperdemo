@@ -11,7 +11,7 @@ namespace CityInfo.API.Repositories
 
         public BaseRepository()
         {
-			string connectionString = "Data Source=localhost;Initial Catalog=Cities;Integrated Security=false;User ID=SA;Password=laxman123";
+            string connectionString = "Data Source=localhost;Initial Catalog=Cities;Integrated Security=true";// false;User ID=SA;Password=laxman123";
 			connection = new SqlConnection(connectionString);
 
         }
