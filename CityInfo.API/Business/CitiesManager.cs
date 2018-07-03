@@ -25,5 +25,10 @@ namespace CityInfo.API.Business
         {
             citiesRepository.AddCity(city);
         }
+
+        public City GetCityById(int id)
+        {
+            return citiesRepository.GetCityById(id);
+        }
     }
 }

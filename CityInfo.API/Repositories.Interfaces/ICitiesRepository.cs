@@ -8,5 +8,6 @@ namespace CityInfo.API.Repositories.Interfaces
     {
 		List<City> GetCities();
         void AddCity(City city);
+        City GetCityById(int id);
     }
 }

@@ -29,5 +29,12 @@ namespace CityInfo.API.Repositories
             parameters.Add("@CityName", city.CityName);
             SqlMapper.Execute(connection, "spAddCity", parameters, null, null, CommandType.StoredProcedure);
         }
+
+        public City GetCityById(int id)
+        {
+            DynamicParameters parameters = new DynamicParameters();
+            parameters.Add("@CityId", id);
+            return SqlMapper.Query<City>(connection, "spGetCityById", parameters, null, false, null, CommandType.StoredProcedure).FirstOrDefault<City>();
+        }
     }
 }
